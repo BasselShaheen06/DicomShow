@@ -1,4 +1,4 @@
-# DICOM Viewer
+# DICOM Show
 
 A Python-based DICOM (Digital Imaging and Communications in Medicine) file viewer, designed to load, display, and interact with 2D, M2D and 3D medical imaging data. The application provides tools for anonymizing patient data and displaying metadata, along with a Cine Play feature for multi-frame images.
 
@@ -33,9 +33,9 @@ You can install all dependencies using the `requirements.txt` file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbdelMoety/DICOM-Viewer.git
+   git clone https://github.com/BasselShaheen06/DicomShow.git
 2. Navigate to the project directory:
-   cd DICOM-Viewer
+   cd DicomShow
 3. Create a virtual environment and activate it:
    python -m venv venv
    source venv\Scripts\activate
